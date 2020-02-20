@@ -4,9 +4,12 @@ Para visualizar y modificar el código de cada una de las actividades, hay que d
 
 Según los conocimientos previos de los alumnos sobre programación por bloques será posible realizar mayor número de actividades.
 
+[Enlace para visualizar y copiar la presentación de google](https://docs.google.com/presentation/d/1j4xP5-oa7zvDL3XxZdA3bBsSi9gRDceJg_TTGAm2ESc/edit?usp=sharing)
+
 Al comenzar el taller se presenta la placa y se explican los sensores que incorpora. Explicamos cuál es su utilidad como micro-computador programable y mostramos los diferentes modos de programar la placa. 
 
 ## Actividad 1: iconos
+![](simulacion-inicial.gif)
 [Fichero mostrar iconos](http://github.com/ankgiel/Taller_micro-bit/blob/master/microbit-inicial.hex)
 * Objetivo:
   * Toma de contacto con la interfaz de programación por bloques
@@ -20,6 +23,7 @@ Al comenzar el taller se presenta la placa y se explican los sensores que incorp
 
 
 ## Actividad 2: micro:bit está triste cuando se enciende pero sonríe cuando la tocamos
+![](simulacion-contacto_sencillo.gif)
 [Fichero contacto con micro:bit](http://github.com/ankgiel/Taller_micro-bit/blob/master/microbit-contacto_sencillo.hex)
 * Objetivo:
   * Comprender variables
@@ -34,6 +38,7 @@ Al comenzar el taller se presenta la placa y se explican los sensores que incorp
 [Fichero contacto con micro:bit](http://github.com/ankgiel/Taller_micro-bit/blob/master/microbit-contacto_extra.hex)
 
 ### EXTRA 2.2: micro:bit tiene 3 caras
+![](simulacion-contador_pulsaciones.gif)
 [Fichero contador de pulsaciones](http://github.com/ankgiel/Taller_micro-bit/blob/master/microbit-contador_pulsaciones.hex)
 
 Realmente es un contador de pulsaciones. Cuando se pulsa A se incrementa el valor de la variable y siempre se comprueba el valor de ésta para mostrar el número de pulsaciones o la cara asociada a cada valor.
@@ -44,6 +49,7 @@ Realmente es un contador de pulsaciones. Cuando se pulsa A se incrementa el valo
 ```
 
 ## Actividad 3: envío adivinanza a través de radio
+![](simulacion-radio_envio_nombres.gif)
 [Fichero envío de nombres por radio](https://github.com/ankgiel/Taller_micro-bit/blob/master/microbit-radio_nombres.hex)
 * Objetivo:
   * Utilizar el módulo de radio
@@ -60,6 +66,7 @@ Realmente es un contador de pulsaciones. Cuando se pulsa A se incrementa el valo
 
 
 ## Actividad 4: medir luminosidad y temperatura
+![](simulacion-nivel_luz_temp_musica.gif)
 [Fichero lectura de luminosidad y temperatura usando funciones](http://github.com/ankgiel/Taller_micro-bit/blob/master/microbit-nivel_luz_temp_musica.hex)
 * Objetivo:
   * Utilizar funciones
@@ -105,6 +112,7 @@ Realmente es un contador de pulsaciones. Cuando se pulsa A se incrementa el valo
   
   
 ## Actividad 6: Juego para tocar el centro de la pantalla con un objeto en movimiento
+![](simulacion-juego_tocar_centro.gif)
 [Fichero juego tocar centro](http://github.com/ankgiel/Taller_micro-bit/blob/master/microbit-juego_tocar_centro.hex)
 * Objetivo:
   * Utilizar las herramientas de micro:bit para la creación de juegos
