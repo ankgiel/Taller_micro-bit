@@ -7,7 +7,7 @@ Según los conocimientos previos de los alumnos sobre programación por bloques 
 Al comenzar el taller se presenta la placa y se explican los sensores que incorpora. Explicamos cuál es su utilidad como micro-computador programable y mostramos los diferentes modos de programar la placa. 
 
 ## Act. 1: Iconos 
-[Fichero mostrar iconos](http://github.com/ankgiel/Taller_micro-bit/microbit-inicial.hex)
+[Fichero mostrar iconos](http://github.com/ankgiel/Taller_micro-bit/blob/master/microbit-inicial.hex)
 * Objetivo:
   * Toma de contacto con la interfaz de programación por bloques
   * Diferenciar las funciones “Al iniciar” y “Para siempre”
@@ -19,7 +19,7 @@ Al comenzar el taller se presenta la placa y se explican los sensores que incorp
   * Mostrar dos iconos alternamente de forma indefinida
 
 ## Act. 2: Micro:bit está triste cuando se enciende pero sonríe cuando la tocamos
-[Fichero contacto con micro:bit](http://github.com/ankgiel/Taller_micro-bit/microbit-contacto_sencillo.hex)
+[Fichero contacto con micro:bit](http://github.com/ankgiel/Taller_micro-bit/blob/master/microbit-contacto_sencillo.hex)
 * Objetivo:
   * Comprender variables
   * Utilizar condiciones
@@ -30,5 +30,5 @@ Al comenzar el taller se presenta la placa y se explican los sensores que incorp
   * Comprobar valor de la variable para representar triste o feliz
 
 ### EXTRA: Al pulsar B micro:bit vuelve a estar triste
-[Fichero contacto con micro:bit](http://github.com/ankgiel/Taller_micro-bit/microbit-contacto_extra.hex)
+[Fichero contacto con micro:bit](http://github.com/ankgiel/Taller_micro-bit/blob/master/microbit-contacto_extra.hex)
 
