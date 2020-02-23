@@ -1,12 +1,10 @@
-# Actividades diseñadas para un taller con la placa micro-bit para alumnos de 3º de ESO 
-
-Para visualizar y modificar el código de cada una de las actividades, hay que descargar el fichero *<nombre>.hex* e importarlo al **editor micro:bit** [MakeCode](https://makecode.microbit.org). Para cargar el fichero directamente en la placa, seguir los pasos publicados en la web oficial indicando el sistema operativo utilizado --> [Guía rápida](https://microbit.org/es/guide/quick). 
+# Actividades diseñadas para un taller con la placa micro:bit
 
 Según los conocimientos previos de los alumnos sobre programación por bloques será posible realizar mayor número de actividades.
 
-[Enlace para visualizar y copiar la presentación de google](https://docs.google.com/presentation/d/1j4xP5-oa7zvDL3XxZdA3bBsSi9gRDceJg_TTGAm2ESc/edit?usp=sharing)
+Para visualizar y modificar el código de cada una de las actividades, hay que descargar el fichero *<nombre>.hex* e importarlo al **editor micro:bit** [MakeCode](https://makecode.microbit.org). Para cargar el fichero directamente en la placa, seguir los pasos publicados en la web oficial indicando el sistema operativo utilizado --> [Guía rápida](https://microbit.org/es/guide/quick). 
 
-Al comenzar el taller se presenta la placa y se explican los sensores que incorpora. Explicamos cuál es su utilidad como micro-computador programable y mostramos los diferentes modos de programar la placa. 
+[Enlace para visualizar y copiar la presentación de google utilizada en el taller](https://docs.google.com/presentation/d/1j4xP5-oa7zvDL3XxZdA3bBsSi9gRDceJg_TTGAm2ESc/edit?usp=sharing)
 
 ## Actividad 1: iconos
 ![](simulacion-inicial.gif)
